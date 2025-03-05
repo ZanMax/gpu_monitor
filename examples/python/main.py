@@ -4,6 +4,7 @@ Example of using the GPU Temperature Monitor library from Python using ctypes.
 This script needs to be run with sudo privileges.
 """
 
+import os
 import ctypes
 import sys
 import time
